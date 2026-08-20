@@ -1,0 +1,2 @@
+all_madrid_rows,historical_center_rows,price_mean,price_median,price_min,price_max,k_neighbors_main,mean_neighbor_distance_km,median_neighbor_distance_km,moran_i_price,moran_i_price_permutation_p,moran_i_log_price,moran_i_log_price_permutation_p
+10512,3633,4646.7389044866495,4444.0,908.0,20131.0,8,0.13058170557419993,0.08764058802500796,0.27658941784400176,0.001,0.29605708706583705,0.001
